@@ -134,4 +134,4 @@ Calcula el Tiempo Medio Entre Fallas por maquinaria para planificar el mantenimi
 ---
 
 ## 👤 Autor
-* **Camilo H.** — *Desarrollo de Base de Datos & SQL Analytics* — [GitHub](https://github.com/camlzh)
+* **Camilo Lopez Medina.** — *Desarrollo de Base de Datos & SQL Analytics* — [GitHub](https://github.com/camlzh)
